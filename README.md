@@ -23,3 +23,7 @@ You should create one R script called run_analysis.R that does the following.
 
 run_analysis.R contains the code to execute all of the steps listed in project summary.
 CodeBook.md contains further information about the data and transformations.
+
+## Running the script
+
+No data needs to be present in order to run this script. If it is present, the first 25 lines of run_analysis.R can be disregarded. The working directory which is set on line 28 needs to be adjusted accordingly.
